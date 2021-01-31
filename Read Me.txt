@@ -1,0 +1,1 @@
+Click on index.html file to run the application on google chrome.
